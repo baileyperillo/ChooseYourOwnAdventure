@@ -1,12 +1,12 @@
 // NOTE - You must have a level with the name "start".  This is used as the first level in the game.
 
 var game = {
-    music: "98_Lost_Mine.mp3",
+   // music: "98_Lost_Mine.mp3",
     background_image: "intro-bg.jpg",
     levels: {
 
         start: {
-            message: "You come across a dark cave",
+            message: "You are in high school",
             choices: [
                 {
                     text: "Enter the cave",
